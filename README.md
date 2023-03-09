@@ -1,4 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigustavotrajano=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavotrajano&show_icons=true&theme=monokai&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavotrajano&langs_count=16&theme=monokai">
+ </div> 
 
 <!--
 **gustavotrajano/gustavotrajano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
